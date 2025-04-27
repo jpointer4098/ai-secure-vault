@@ -25,5 +25,5 @@ Built for secure local storage, with clean, professional structure ready for fut
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-secure-vault.git
+   git clone https://github.com/jeffrey4098/ai-secure-vault.git
    cd ai-secure-vault
